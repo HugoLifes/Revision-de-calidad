@@ -33,5 +33,25 @@ La aplicación almacena audios, imágenes, textos, lo cual hace mas fácil la ma
 |Monitoreo|Monitoreamos todos los movimientos de entrada y salida en cada una de las instalaciones de todos nuestros centros empresariales y centros de datos a través de cámaras de CCTV implementadas de conformidad con las regulaciones locales.|
 
 ### 1.3 Requisitos
-#### 1.3.1 Estudio de viabilidad
-
+|Tabla de requisitos||
+|-|-|
+|El sistema debe contar con conexion a la red.||
+|El sistema debe tener permitido a conexión con navegadores.||
+|La aplicación podra sincronizar tus notas en segundo plano.||
+|La aplicación debe contar con un sistema intuitivo.||
+|La aplicación debe contar con un sistema de seguridad.||
+|El sistema debe contar con seguridad de información.||
+|La aplicación permite una creacion de cuenta||
+|El sistema cuenta con una base de datos para almacenar a los usuarios.||
+|La aplicación debe mostrar una interfaz donde se muestre ala coleccioó de cuadernos.||
+|El sistema no incluira publicidad||
+|El sistema debe contar con proteccion a las notas||
+|El sistema no cuenta con apartados premium.|
+|La aplicación cuenta con el apartado de notas favoritas.||
+|La aplicación permite compartir notas||
+|Las notas de audio necesitan permisos de administrador||
+|Las fotos necesitan permisos de administrador.||
+|El sistema debera contar con boton para crear nueva nota||
+|El sistema permite adjuntar archivos a las notas.||
+|La apicación debera permitir estilizacion del cuaderno||
+|La aplicación debera buscar notas especificas.||
