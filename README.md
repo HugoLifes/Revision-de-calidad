@@ -103,7 +103,7 @@ Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
 |Entregar caracteristicas.|Administrador|Hector Hugo Vidaña|
 |Analisis de prueba.|Tester|Juan Jose Fuentes Anaya|
 |Analisis de fallo.|Tester|Juan Jose Fuentes Anaya|
-#### 5. Estandares y Metricas
+### 5. Estandares y Metricas
 ##### 5.1 Estandares de documentacion 
 |Entregable|Estandar|
 |-|-|
