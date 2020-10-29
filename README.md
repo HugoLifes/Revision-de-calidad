@@ -131,8 +131,8 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Prueba 5:|Mujer, 25 años, Estudiante Universitaria IADA, experto.|
 
 ###### 5.3.3 Fiabilidad
-###### 6.3.3.1 Casos de prueba
-###### 6.3.3.2 Resultados
+###### 5.3.3.1 Casos de prueba
+###### 5.3.3.2 Resultados
 |Fiabilidad|Nivel A|Nivel B|Nivel C|
 |-|-|-|-|
 |Prueba 1:|Bien||||
