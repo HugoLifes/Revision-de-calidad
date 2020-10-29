@@ -55,3 +55,88 @@ La aplicación almacena audios, imágenes, textos, lo cual hace mas fácil la ma
 |El sistema permite adjuntar archivos a las notas.||
 |La apicación debera permitir estilizacion del cuaderno||
 |La aplicación debera buscar notas especificas.||
+
+### 2. Caracteristicas
+|Caracteristicas||
+|-|-|
+|Requiere de 63.3MB de espacio.||
+|Compatible OS X 10.11 en delante.||
+|Disponible en 19 idiomas.||
+|Compatible con Touch Bar de MacOS.||
+|Sitema intuitivo.||
+|Modo oscuro y claro.||
+|Seleccion automatica de color de notas.||
+|Seleccion de color de notas manualmente.||
+|Seleccion de imagenes.||
+|Permite grabar audios.||
+|Puedes cargar o leer archivos.||
+|Puedes cambiar la portada de tu libro.||
+|Permite compartir tus notas||
+|Agregar usuarios para participar en las notas||
+|Abre excel,word,pfd,pp,.cpp||
+
+### 3. Referencias
+[1] IEEE 730-2014 - IEEE Standard for Software Quality Assurance Processes 
+### 4. Gestión
+#### 4.1 Oganización
+|Asociado|Rol|Responsabilidad|
+|-|-|-|
+|Hector Hugo Vidaña Arrieta|Analista y Administrador|Que la aplicacion cumpla sus requerimientos.|
+|Juan Jose Fuentes Anaya|Tester|Probar las funcionalidades de la aplicacion.|
+##### 4.1.1 Objetivos especificos
+###### 4.1.1.1 Analista
+Revisar si la aplicacion cumple con los requerimientos necesarios para su funcionamiento.
+###### 4.1.1.2 Administrador
+Administrar la recogida de informacion para introducirla en el documento.
+###### 4.1.1.3 Tester
+Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
+#### 4.2 Tareas
+|Actividad|Entregable Asociado|
+|-|-|
+|Verificar si todas las caractersticas se cumplen.|Hector Hugo Vidaña Arrieta|
+|Registrar todos los requrimientos de la aplicación.|Hector Hugo Vidaña Arrieta|
+|Probar la aplicación.|Juan Jose Fuentes Anaya|
+##### 4.3 Responsabilidades
+|Producto|Rol Responsable|Responsable|
+|-|-|-|
+|Entregar requerimientos.|Analista|Hector Hugo Vidaña |
+|Entregar caracteristicas.|Administrador|Hector Hugo Vidaña|
+|Analisis de prueba.|Tester|Juan Jose Fuentes Anaya|
+|Analisis de fallo.|Tester|Juan Jose Fuentes Anaya|
+#### 5. Estandares y Metricas
+##### 5.1 Estandares de documentacion 
+|Entregable|Estandar|
+|-|-|
+|Primer Documento.|Estándar de documentacion tecnica.|
+|Segndo Documento.|Estándar de implementación.|
+
+##### 5.2 Equipos de pruebas
+|Equipo de pruebas|Especificaciones|
+|-|-|
+|Hector Hugo Vidaña Arrieta|Realizar notas probando las caracteristicas que estas incluyen.|
+|Hector Hugo Vidaña Arrieta|Compartir notas|
+|Juan Jose Fuentes Anaya|Crear un libro, con varias notas|
+|Juan Jose Fuentes Anaya|Incluir a alguien en una nota|
+
+##### 5.3 Metricas
+###### 5.3.1 Facilidad de uso
+###### 5.3.1.1 Casos de Prueba
+Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y conocimientos de sistemas informáticos como se describe a continuación: 
+|Pruebas||
+|-|-|
+|Prueba 1:|Hombre, 31 años, Ingeniero Civil, experto.|
+|Prueba 2:|Hombre, 40 años, Albañil, principiante.|
+|Prueba 3:|Mujer, 19 años, Estudiante Universitaria ICSA, intermedio.|
+|Prueba 4:|Mujer, 23 años, Diseñador Gráfico, intermedio.|
+|Prueba 5:|Mujer, 25 años, Estudiante Universitaria IADA, experto.|
+
+###### 5.3.3 Fiabilidad
+###### 6.3.3.1 Casos de prueba
+###### 6.3.3.2 Resultados
+|Fiabilidad|Nivel A|Nivel B|Nivel C|
+|-|-|-|-|
+|Prueba 1:|Bien||||
+|Prueba 2:|Bien||||
+|Prueba 3:||Medio||
+|Prueba 4:||Medio||
+|Prueba 5:|Bien||||
