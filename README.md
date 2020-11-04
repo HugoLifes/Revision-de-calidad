@@ -98,9 +98,15 @@ La aplicación almacena audios, imágenes, textos, lo cual hace mas fácil la ma
 |Permite grabar audios.||
 |Puedes cargar o leer archivos.||
 |Puedes cambiar la portada de tu libro.||
-|Permite compartir tus notas||
-|Agregar usuarios para participar en las notas||
+|Permite compartir tus notas.||
+|Agregar usuarios para participar en las notas.||
 |Abre excel,word,pfd,pp,.cpp||
+|Propiedades de las tarjetas.||
+|Ajustes generales.||
+|Privacidad y Seguridad.||
+|Metodo para ordenar los objetos mostrados.||
+|Widget en la barra de estados.||
+|Crear nota en la barra de estados.||
 
 ### 3. Referencias
 [1] IEEE 730-2014 - IEEE Standard for Software Quality Assurance Processes 
@@ -123,6 +129,31 @@ Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
 |Verificar si todas las caractersticas se cumplen.|Hector Hugo Vidaña Arrieta|
 |Registrar todos los requrimientos de la aplicación.|Hector Hugo Vidaña Arrieta|
 |Probar la aplicación.|Juan Jose Fuentes Anaya|
+
+
+### 4.2.2 Factores de calidad
+|Funcionalidad|Usabilidad|fiabilidad|Eficiencia|Seguridad|
+|-|-|-|-|-|
+|Compartir notas|||||
+|Seleccion automatica de color de notas.|||||
+|Seleccion de color de notas manualmente.|||||
+|Seleccion de imagenes.|||||
+|Permite grabar audios.|||||
+|Puedes cargar o leer archivos.|||||
+|Puedes cambiar la portada de tu libro.|||||
+|Permite compartir tus notas|||||
+|Agregar usuarios para participar en las notas|||||
+|Ajustes Generales.|||||
+|Widget en la barra de estados.|||||
+|Crear nota en la barra de estados.|||
+|Dar formato a la hoja de texto.||
+|Bloquear notas.||
+|Revisar versiones de las notas.||
+|Marcar como favorito.||
+|Imprimir la nota||
+|Eliminar notas||
+|Mover la nota a otro libro||
+
 ##### 4.3 Responsabilidades
 |Producto|Rol Responsable|Responsable|
 |-|-|-|
@@ -153,6 +184,16 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Prueba 3:|Mujer, 19 años, Estudiante Universitaria ICSA, intermedio.|
 |Prueba 4:|Mujer, 23 años, Diseñador Gráfico, intermedio.|
 |Prueba 5:|Mujer, 25 años, Estudiante Universitaria IADA, experto.|
+|Prueba 6:|Hombre, 21 años, Estudiante Universitario UACH, Intermedio.|
+|Prueba 7:|Mujer, 41 años, Ama de Casa, Base.|
+|Prueba 8:|Mujer 20 años, Estudiande Universitaria UTECH, Experto.|
+|Prueba 9:|Hombre 45 años, Ingeniero Quimico UTECH, Experto.|
+|Prueba 10:|Hombre 21 años, Estudiante Universitario URN, Intermedio.|
+|Prueba 11:|Mujer 19 años, Estudiante Preparatoria URN, Intermedio.|
+|Prueba 12:|Hombre 19 años, Estudiante Preparatoria COBACH, Intermedio|
+|Prueba 13:|Hombre 23 años, Diseñador Grafico, principiante|
+|Prueba 15:|Mujer 50 años, Maestro, Experto|
+
 
 ###### 5.3.3 Fiabilidad
 ###### 5.3.3.1 Casos de prueba
@@ -164,3 +205,14 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Prueba 3:||Medio||
 |Prueba 4:||Medio||
 |Prueba 5:|Bien||||
+|Prueba 6:||Medio|||
+|Prueba 7:||Medio|||
+|Prueba 8:|Bien||||
+|Prueba 9:|||Mal||
+|Prueba 10:|Bien||||
+|Prueba 11:|||Mal||
+|Prueba 12:|||Mal||
+|Prueba 13:|Bien||||
+|Prueba 15:|Bien||||
+
+
