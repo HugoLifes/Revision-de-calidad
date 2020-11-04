@@ -4,6 +4,33 @@
 <br>
 <center>HECTOR HUGO VIDAÑA ARRIETA - 159957</center>
 
+# Indice
+* __1. Introduccion__
+* ___1.1 Propósitos___
+* ___1.2 Descripción___
+* ___1.3 Objetivos___
+* __2. Caracteristicas__
+* __3. Referencias__
+* __4. Gestion__
+* ___4.1 Organización___
+* ___4.1.1 Objetivos especificos___
+* ___4.1.1.1 Analista___
+* ___4.1.1.2 Administrador___
+* ___4.1.1.3 Tester___
+* __4.2 Tareas__
+* __4.3 Responsabilidades__
+* __5. Estandares y Metricas__
+* ___5.1 Estandares de documentación___
+* ___5.2 Equipos de purebas___
+* ___5.3 Metricas___
+* ___5.3.1 Facilidad de uso___
+* ____5.3.1.1 Casos de Prueba____
+* ___5.3.3 Fiabilidad___
+* ___5.3.3.1 Casos de prueba___
+* ___5.3.3.2 Resultados___
+
+
+
 ## 1. Introduccion
 En este documentos se encontrara información de la aplicación "Notebook" que se encuentra en la apple store, con el fin de estudiar su funcionamiento y su funcionalidad a la hora de usarse. Tambien encontrara informacion acerca de su seguridad que se tiene, breves descripciones, la version que se esta trabajando
 ### 1.1 Propósito
@@ -113,10 +140,7 @@ Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
 ##### 5.2 Equipos de pruebas
 |Equipo de pruebas|Especificaciones|
 |-|-|
-|Hector Hugo Vidaña Arrieta|Realizar notas probando las caracteristicas que estas incluyen.|
-|Hector Hugo Vidaña Arrieta|Compartir notas|
-|Juan Jose Fuentes Anaya|Crear un libro, con varias notas|
-|Juan Jose Fuentes Anaya|Incluir a alguien en una nota|
+|Macbook Air 2017|macOS Catalina Versión 10.15.7|
 
 ##### 5.3 Metricas
 ###### 5.3.1 Facilidad de uso
