@@ -134,25 +134,25 @@ Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
 ### 4.2.2 Factores de calidad
 |Funcionalidad|Usabilidad|fiabilidad|Eficiencia|Seguridad|
 |-|-|-|-|-|
-|Compartir notas|||||
-|Seleccion automatica de color de notas.|||||
-|Seleccion de color de notas manualmente.|||||
-|Seleccion de imagenes.|||||
-|Permite grabar audios.|||||
-|Puedes cargar o leer archivos.|||||
-|Puedes cambiar la portada de tu libro.|||||
-|Permite compartir tus notas|||||
-|Agregar usuarios para participar en las notas|||||
-|Ajustes Generales.|||||
-|Widget en la barra de estados.|||||
-|Crear nota en la barra de estados.|||
-|Dar formato a la hoja de texto.||
-|Bloquear notas.||
-|Revisar versiones de las notas.||
-|Marcar como favorito.||
-|Imprimir la nota||
-|Eliminar notas||
-|Mover la nota a otro libro||
+|Compartir notas|Facilidad de uso||||
+|Seleccion automatica de color de notas.|Idoniedad||||
+|Seleccion de color de notas manualmente.|Adaptabilidad||||
+|Seleccion de imagenes.|Facilidad de uso||||
+|Permite grabar audios.|Disponibilidad||||
+|Puedes cargar o leer archivos.|Facilidad de uso||||
+|Puedes cambiar la portada de tu libro.|Idoniedad||||
+|Permite compartir tus notas|Estable||||
+|Agregar usuarios para participar en las notas|Funcional||||
+|Ajustes Generales.|Funcipnal||||
+|Widget en la barra de estados.|Inmersiva||||
+|Crear nota en la barra de estados.|Inmersiva||
+|Dar formato a la hoja de texto.|Idoniedad|
+|Bloquear notas.|Efectividad|
+|Revisar versiones de las notas.|Efectividad|
+|Marcar como favorito.|Efectividad|
+|Imprimir la nota|Idoniedad|
+|Eliminar notas|Efectividad|
+|Mover la nota a otro libro|Facilidad de uso|
 
 ##### 4.3 Responsabilidades
 |Producto|Rol Responsable|Responsable|
