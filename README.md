@@ -132,27 +132,27 @@ Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
 
 
 ### 4.2.2 Factores de calidad
-|Funcionalidad|Usabilidad|fiabilidad|Eficiencia|Seguridad|
+|Funcionalidad|Usabilidad|Fiabilidad|Eficiencia|Seguridad|
 |-|-|-|-|-|
-|Compartir notas|Facilidad de uso||||
-|Seleccion automatica de color de notas.|Idoniedad||||
-|Seleccion de color de notas manualmente.|Adaptabilidad||||
-|Seleccion de imagenes.|Facilidad de uso||||
-|Permite grabar audios.|Disponibilidad||||
-|Puedes cargar o leer archivos.|Facilidad de uso||||
-|Puedes cambiar la portada de tu libro.|Idoniedad||||
-|Permite compartir tus notas|Estable||||
-|Agregar usuarios para participar en las notas|Funcional||||
-|Ajustes Generales.|Funcipnal||||
-|Widget en la barra de estados.|Inmersiva||||
-|Crear nota en la barra de estados.|Inmersiva||
-|Dar formato a la hoja de texto.|Idoniedad|
-|Bloquear notas.|Efectividad|
-|Revisar versiones de las notas.|Efectividad|
-|Marcar como favorito.|Efectividad|
-|Imprimir la nota|Idoniedad|
-|Eliminar notas|Efectividad|
-|Mover la nota a otro libro|Facilidad de uso|
+|Compartir notas|Facilidad de uso|Flexibilidad|Velocidad|Gestion|
+|Seleccion automatica de color de notas.|Idoniedad|Flexibilidad|Estabilidad|Portabilidad|
+|Seleccion de color de notas manualmente.|Adaptabilidad|Recuperacion|Estabilidad|Portabiliad|
+|Seleccion de imagenes.|Facilidad de uso|Degradacion|Velocidad|Gestion|
+|Permite grabar audios.|Disponibilidad|Recuperacion|Economia|Capacidad|
+|Puedes cargar o leer archivos.|Facilidad de uso|Recuperacion|Economia|Capacidad|
+|Puedes cambiar la portada de tu libro.|Idoniedad|Flexibilidad|Economia|Capacidad|
+|Permite compartir tus notas|Estable|Transferencia|Velocidad|Gestion|
+|Agregar usuarios para participar en las notas|Funcional|Flexibilidad|Velocidad|Gestión|
+|Ajustes Generales.|Funcipnal|Recuperacion|Estabilidad|Gestion|
+|Widget en la barra de estados.|Inmersiva|transferencia|Estabilidad|Portabilidad|
+|Crear nota en la barra de estados.|Inmersiva|Flexibilidad|Economia|Portabilidad|
+|Dar formato a la hoja de texto.|Idoniedad|Degradacion|Estabilidad|Capacidad|
+|Bloquear notas.|Efectividad|Degradación|Velocidad|Gestion|
+|Revisar versiones de las notas.|Efectividad|Degradacion|Velocidad|Gestion|
+|Marcar como favorito.|Efectividad|Recuperación|Economia|Portabilidad|
+|Imprimir la nota|Idoniedad|Transferencia|Estabilidad|Capacidad|
+|Eliminar notas|Efectividad|Flexibilidad|Velocidad|Capacidad|
+|Mover la nota a otro libro|Facilidad de uso|Transferencia|Velocidad|Gestión|
 
 ##### 4.3 Responsabilidades
 |Producto|Rol Responsable|Responsable|
