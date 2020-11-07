@@ -214,7 +214,7 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Agregar usuarios para participar en las notas|||Mal||
 |Ajustes Generales.|Bien||||
 |Widget en la barra de estados.|Bien||||
-|Crear nota en la barra de estados.|||Mal||
+|Crear nota en la barra de estados.||||Mal|
 |Dar formato a la hoja de texto.|Bien||||
 |Bloquear notas.|Bien||||
 |Revisar versiones de las notas.|Bien||||
