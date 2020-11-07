@@ -179,40 +179,48 @@ Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
 Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y conocimientos de sistemas informáticos como se describe a continuación: 
 |Pruebas||
 |-|-|
-|Prueba 1:|Hombre, 31 años, Ingeniero Civil, experto.|
-|Prueba 2:|Hombre, 40 años, Albañil, principiante.|
-|Prueba 3:|Mujer, 19 años, Estudiante Universitaria ICSA, intermedio.|
-|Prueba 4:|Mujer, 23 años, Diseñador Gráfico, intermedio.|
-|Prueba 5:|Mujer, 25 años, Estudiante Universitaria IADA, experto.|
-|Prueba 6:|Hombre, 21 años, Estudiante Universitario UACH, Intermedio.|
-|Prueba 7:|Mujer, 41 años, Ama de Casa, Base.|
-|Prueba 8:|Mujer 20 años, Estudiande Universitaria UTECH, Experto.|
-|Prueba 9:|Hombre 45 años, Ingeniero Quimico UTECH, Experto.|
-|Prueba 10:|Hombre 21 años, Estudiante Universitario URN, Intermedio.|
-|Prueba 11:|Mujer 19 años, Estudiante Preparatoria URN, Intermedio.|
-|Prueba 12:|Hombre 19 años, Estudiante Preparatoria COBACH, Intermedio|
-|Prueba 13:|Hombre 23 años, Diseñador Grafico, principiante|
-|Prueba 15:|Mujer 50 años, Maestro, Experto|
-
+|Compartir notas|Hombre, 31 años, Ingeniero Civil, experto.|
+|Seleccion automatica de color de notas.|Hombre, 40 años, Albañil, principiante.|
+|Seleccion de color de notas manualmente.|Mujer, 19 años, Estudiante Universitaria ICSA, intermedio.|
+|Seleccion de imagenes.|Mujer, 23 años, Diseñador Gráfico, intermedio.|
+|Permite grabar audios.|Mujer, 25 años, Estudiante Universitaria IADA, experto.|
+|Puedes cargar o leer archivos.|Hombre, 21 años, Estudiante Universitario UACH, Intermedio.|
+|Puedes cambiar la portada de tu libro.|Mujer, 41 años, Ama de Casa, Base.|
+|Permite compartir tus notas|Mujer 20 años, Estudiande Universitaria UTECH, Experto.|
+|Agregar usuarios para participar en las notas|Hombre 45 años, Ingeniero Quimico UTECH, Experto.|
+|Ajustes Generales.|Hombre 21 años, Estudiante Universitario URN, Intermedio.|
+|Widget en la barra de estados.|Mujer 19 años, Estudiante Preparatoria URN, Intermedio.|
+|Crear nota en la barra de estados.|Hombre 19 años, Estudiante Preparatoria COBACH, Intermedio|
+|Dar formato a la hoja de texto.|Hombre 23 años, Diseñador Grafico, principiante|
+|Bloquear notas.|Hombre 50 años, Maestro, Experto|
+|Revisar versiones de las notas.|Hombre 27 años, Maestra universitario, Experto|
+|Marcar como favorito.|Mujer 22 años, Maestro, Experto|
+|Eliminar notas|Mujer 33|
+|Mover la nota a otro libro|Hombre 18, Preparatoria, intermedio|
 
 ###### 5.3.3 Fiabilidad
 ###### 5.3.3.1 Casos de prueba
 ###### 5.3.3.2 Resultados
-|Fiabilidad|Nivel A|Nivel B|Nivel C|
+|Pruebas|Nivel A|Nivel B|Nivel C|
 |-|-|-|-|
-|Prueba 1:|Bien||||
-|Prueba 2:|Bien||||
-|Prueba 3:||Medio||
-|Prueba 4:||Medio||
-|Prueba 5:|Bien||||
-|Prueba 6:||Medio|||
-|Prueba 7:||Medio|||
-|Prueba 8:|Bien||||
-|Prueba 9:|||Mal||
-|Prueba 10:|Bien||||
-|Prueba 11:|||Mal||
-|Prueba 12:|||Mal||
-|Prueba 13:|Bien||||
-|Prueba 15:|Bien||||
+|Compartir notas|Bien||||
+|Seleccion automatica de color de notas.|Bien||||
+|Seleccion de color de notas manualmente.||Medio||
+|Seleccion de imagenes.||Medio||
+|Permite grabar audios.|Bien||||
+|Puedes cargar o leer archivos.||Medio|||
+|Puedes cambiar la portada de tu libro.||Medio|||
+|Permite compartir tus notas|Bien||||
+|Agregar usuarios para participar en las notas|||Mal||
+|Ajustes Generales.|Bien||||
+|Widget en la barra de estados.|Bien||||
+|Crear nota en la barra de estados.|||Mal||
+|Dar formato a la hoja de texto.|Bien||||
+|Bloquear notas.|Bien||||
+|Revisar versiones de las notas.|Bien||||
+|Marcar como favorito.|Bien|||
+|Imprimir la nota||Mal||
+|Eliminar notas|Bien|||
+|Mover la nota a otro libro||Bien||
 
 
