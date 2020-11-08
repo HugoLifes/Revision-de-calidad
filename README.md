@@ -177,7 +177,7 @@ Pone a prueba las funcionalidades del sistema y ver o lograr algun fallo en el.
 ###### 5.3.1 Facilidad de uso
 ###### 5.3.1.1 Casos de Prueba
 Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y conocimientos de sistemas informáticos como se describe a continuación: 
-|Pruebas||
+|Pruebas|Sujetos|
 |-|-|
 |Compartir notas|Hombre, 31 años, Ingeniero Civil, experto.|
 |Seleccion automatica de color de notas.|Hombre, 40 años, Albañil, principiante.|
@@ -203,24 +203,24 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 ###### 5.3.3.2 Resultados
 |Pruebas|Nivel A|Nivel B|Nivel C|
 |-|-|-|-|
-|Compartir notas|Bien||||
-|Seleccion automatica de color de notas.|Bien||||
-|Seleccion de color de notas manualmente.||Medio||
-|Seleccion de imagenes.||Medio||
-|Permite grabar audios.|Bien||||
-|Puedes cargar o leer archivos.||Medio|||
-|Puedes cambiar la portada de tu libro.||Medio|||
-|Permite compartir tus notas|Bien||||
-|Agregar usuarios para participar en las notas||||Mal|
-|Ajustes Generales.|Bien||||
-|Widget en la barra de estados.|Bien||||
-|Crear nota en la barra de estados.|||||Mal|
-|Dar formato a la hoja de texto.|Bien||||
-|Bloquear notas.|Bien||||
-|Revisar versiones de las notas.|Bien||||
-|Marcar como favorito.|Bien|||
-|Imprimir la nota||Mal||
-|Eliminar notas|Bien|||
-|Mover la nota a otro libro||Bien||
+|Compartir notas|Bien|Medio|Bien|
+|Seleccion automatica de color de notas.|Bien|Bien|Medio|
+|Seleccion de color de notas manualmente.|Medio|Medio|Bien|
+|Seleccion de imagenes.|Medio|Medio|Medio|
+|Permite grabar audios.|Bien|Bien|Bien||
+|Puedes cargar o leer archivos.|Medio|Medio|Mal||
+|Puedes cambiar la portada de tu libro.|Bien|Medio|Bien||
+|Permite compartir tus notas|Bien|Bien|Bien|
+|Agregar usuarios para participar en las notas|Bien|Bien|Mal|
+|Ajustes Generales.|Bien|Bien|Medio||
+|Widget en la barra de estados.|Bien|Medio|Medio||
+|Crear nota en la barra de estados.|Bien|Medio|Bien|
+|Dar formato a la hoja de texto.|Bien|Bien|Bien|
+|Bloquear notas.|Bien|Bien|Bien||
+|Revisar versiones de las notas.|Bien|Medio|Medio||
+|Marcar como favorito.|Bien|Bien|Biem|
+|Imprimir la nota|Medio|Mal|Mal|
+|Eliminar notas|Bien|Bien|Bien|
+|Mover la nota a otro libro|Medio|Bien|Meidio|
 
 
