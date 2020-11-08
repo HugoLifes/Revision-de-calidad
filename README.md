@@ -211,10 +211,10 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Puedes cargar o leer archivos.||Medio|||
 |Puedes cambiar la portada de tu libro.||Medio|||
 |Permite compartir tus notas|Bien||||
-|Agregar usuarios para participar en las notas|||Mal||
+|Agregar usuarios para participar en las notas||||Mal|
 |Ajustes Generales.|Bien||||
 |Widget en la barra de estados.|Bien||||
-|Crear nota en la barra de estados.||||Mal|
+|Crear nota en la barra de estados.|||||Mal|
 |Dar formato a la hoja de texto.|Bien||||
 |Bloquear notas.|Bien||||
 |Revisar versiones de las notas.|Bien||||
