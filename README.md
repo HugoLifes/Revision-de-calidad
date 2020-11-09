@@ -18,6 +18,7 @@
 * ___4.1.1.2 Administrador___
 * ___4.1.1.3 Tester___
 * __4.2 Tareas__
+* __4.2.2 
 * __4.3 Responsabilidades__
 * __5. Estandares y Metricas__
 * ___5.1 Estandares de documentación___
