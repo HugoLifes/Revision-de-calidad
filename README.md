@@ -18,7 +18,7 @@
 * ___4.1.1.2 Administrador___
 * ___4.1.1.3 Tester___
 * __4.2 Tareas__
-* __4.2.2 
+* __4.2.2 Factores de calidad__
 * __4.3 Responsabilidades__
 * __5. Estandares y Metricas__
 * ___5.1 Estandares de documentación___
@@ -196,11 +196,30 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Bloquear notas.|Hombre 50 años, Maestro, Experto|
 |Revisar versiones de las notas.|Hombre 27 años, Maestra universitario, Experto|
 |Marcar como favorito.|Mujer 22 años, Maestro, Experto|
-|Eliminar notas|Mujer 33|
+|Eliminar notas|Mujer 33, Relaciones interncionales, Experta|
 |Mover la nota a otro libro|Hombre 18, Preparatoria, intermedio|
 
 ###### 5.3.3 Fiabilidad
 ###### 5.3.3.1 Casos de prueba
+|Sujeto|Pureba a realizar|
+|-|-|
+|Hombre, 31 años, Ingeniero Civil, experto.|Compartir notas, Seleccion de imagenes, Puedes cambiar la portada de tu libro.|
+|Hombre, 40 años, Albañil, principiante.|Seleccion automatica de color de notas, puedes cargar o leer archivos, mover la nota a otro libro|
+|Mujer, 19 años, Estudiante Universitaria ICSA, intermedio.|Dar formato a la hoja de texto, revisar versiones de las notas, Compartir notas|
+|Mujer, 23 años, Diseñador Gráfico, intermedio.|Seleccion automatica de color de notas|
+|Mujer, 25 años, Estudiante Universitaria IADA, experto.|Crear nota en la barra de estados, widget en la barra de estados, Permite compartir tus notas|
+|Hombre, 21 años, Estudiante Universitario UACH, Intermedio.|Seleccion de color de notas manualmente, Permite grabar audios, Compartir notas|
+|Mujer 20 años, Estudiande Universitaria UTECH, Experto.|Permite grabar audios,Seleccion de imagenes,Agregar usuarios para participar en las notas|
+|Hombre 45 años, Ingeniero Quimico UTECH, Experto.|Seleccion automatica de color de notas, Bloquear notas, Widget en la barra de estados|
+|Hombre 21 años, Estudiante Universitario URN, Intermedio.|Seleccion de color de notas manualmente, Permite compartir tus notas, Bloquear notas.|
+|Mujer 19 años, Estudiante Preparatoria URN, Intermedio.|Permite grabar audios, seleccion de imagenes, Puedes cargar o leer archivos. |
+|Hombre 19 años, Estudiante Preparatoria COBACH, Intermedio|Crear nota en la barra de estados,Ajustes Generales, Compartir notas.|
+|Hombre 23 años, Diseñador Grafico, principiante|Permite compartir tus notas, eliminar notas, Mover la nota a otro libro, Bloquear notas. |
+|Hombre 50 años, Maestro, Experto|Marcar como favorito,Puedes cargar o leer archivos,Revisar versiones de las notas|
+|Hombre 27 años, Maestra universitario, Experto|Puedes cargar o leer archivos, Crear nota en la barra de estados, Puedes cambiar la portada de tu libro.|
+|Mujer 22 años, Maestro, Experto|Mover la nota a otro libro, Permite grabar audios, Seleccion de imagenes|
+|Mujer 33, Relaciones interncionales, Experta|Marcar como favorito, dar formato a la hoja de texto, Permite grabar audios. |
+|Hombre 18, Preparatoria, intermedio|Crear nota en la barra de estados, widget en la barra de estados, Ajustes Generales. |
 ###### 5.3.3.2 Resultados
 |Pruebas|Nivel A|Nivel B|Nivel C|
 |-|-|-|-|
