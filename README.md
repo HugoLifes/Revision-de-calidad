@@ -221,7 +221,7 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Mujer 33, Relaciones interncionales, Experta|Marcar como favorito, dar formato a la hoja de texto, Permite grabar audios. |
 |Hombre 18, Preparatoria, intermedio|Crear nota en la barra de estados, widget en la barra de estados, Ajustes Generales. |
 ###### 5.3.3.2 Resultados
-|Pruebas|Nivel A|Nivel B|Nivel C|
+|Pruebas|Usabilidad|Eficiencia|Fiabilidad|
 |-|-|-|-|
 |Compartir notas|Bien|Medio|Bien|
 |Seleccion automatica de color de notas.|Bien|Bien|Medio|
