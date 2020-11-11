@@ -3,7 +3,9 @@
 <center><img src="http://www3.uacj.mx/comunicacion/PublishingImages/Escudo%20UACJ%202015/Escudo%20uacj%202015-color-sin%20fondo.png" alt="" width="200" height="200"></center>
 <br>
 <center>HECTOR HUGO VIDAÑA ARRIETA - 159957</center>
-<ceter> JUAN JOSÉ FUENTES ANAYA - 150405</center>
+<ceter>
+  JUAN JOSÉ FUENTES ANAYA - 150405
+ </center>
 
 # Indice
 * __1. Introduccion__
