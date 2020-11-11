@@ -241,6 +241,8 @@ Las pruebas fueron realizadas a usuarios de diferentes niveles de experiencia y 
 |Marcar como favorito.|Bien|Bien|Biem|
 |Imprimir la nota|Medio|Mal|Mal|
 |Eliminar notas|Bien|Bien|Bien|
-|Mover la nota a otro libro|Medio|Bien|Meidio|
+|Mover la nota a otro libro|Medio|Bien|Medio|
 
+## 6.0 Conclusiones
+La aplicacion mostro buenos resultados y adaptable a varios tipos de personas de diferentes edades, de esa manera nos damos cuenta que la aplicacion es facil de usar y que sus funcionalidades no son tan complicadas de usar, aun que algunos datos que se recabaron, la gente se le complica subir archivos de texto o es complicado agregar a otros usuarios a las notas y donde se complico mas fue a la hora de imprimir las notas, falla con sincorinzacion con la impresora, problemas de software que de usuario, que esto tambien afecta pues las experiencia del usuario, pero lo demas otorga buena experiencia y usabilidad.
 
